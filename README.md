@@ -3,7 +3,7 @@
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on LLM Evaluation, Benchmarking & Leaderboards*  
-**Last updated: March 2026**
+**Last updated: May 2026**
 
 This repository tracks notable **platforms** and **open-source projects** for **AI benchmarking and LLM evaluation**. These tools and leaderboards provide standardized, reproducible ways to measure model performance across reasoning, coding, knowledge, safety, instruction following, and real-world capabilities.
 
@@ -61,6 +61,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[EvalPlus](https://github.com/evalplus/evalplus)**  
   Rigorous evaluation framework focused on code generation with extended test cases (HumanEval+, MBPP+).
 
+- **[DeepSWE](https://github.com/datacurve-ai/deep-swe)**  
+  High-resolution benchmark from Datacurve for coding agents, featuring zero-pollution, long-horizon tasks across 100+ languages with behavioral verifiers.
+
 - **[DeepEval](https://github.com/confident-ai/deepeval)**  
   Popular open-source framework for LLM evaluation with RAGAs, G-Eval, and custom metrics.
 
@@ -79,6 +82,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[RAGAS](https://github.com/explodinggradients/ragas)** — Specialized framework for evaluating Retrieval-Augmented Generation systems.
 - **[PromptBench](https://github.com/microsoft/promptbench)** — Robustness and adversarial testing for prompts.
 - **[SafetyBench](https://github.com/thu-coai/SafetyBench)** — Safety and alignment evaluation suites.
+- **[VIrAL (Viral Intelligence and Risk Assessment Link)](https://github.com/QIANJINYDX/ViroBench)** — Comprehensive benchmark for Nucleotide Foundation Models (NFMs) evaluating viral genomics understanding and latent biosecurity risks.
 - **[MT-Bench](https://github.com/lm-sys/FastChat)** — Multi-turn conversation benchmarking (from LMSYS).
 - **AgentBench** — For evaluating autonomous AI agents.
 - Many community forks and extensions of `lm-evaluation-harness` for domain-specific benchmarks (finance, legal, medical, etc.).
