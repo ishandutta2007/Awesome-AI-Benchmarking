@@ -85,6 +85,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[VIrAL (Viral Intelligence and Risk Assessment Link)](https://github.com/QIANJINYDX/ViroBench)** — Comprehensive benchmark for Nucleotide Foundation Models (NFMs) evaluating viral genomics understanding and latent biosecurity risks.
 - **[MT-Bench](https://github.com/lm-sys/FastChat)** — Multi-turn conversation benchmarking (from LMSYS).
 - **AgentBench** — For evaluating autonomous AI agents.
+- **[ClawBench](https://github.com/reacher-z/ClawBench)** — Live-website browser-agent benchmark; 283 everyday tasks (V1 153 + V2 130) across 163 live platforms. Two-stage scoring: HTTP-request interception at per-task URL/method schema + LLM judge on intercepted payload. [Paper](https://arxiv.org/abs/2604.08523) · [Live leaderboard](https://claw-bench.com).
 - Many community forks and extensions of `lm-evaluation-harness` for domain-specific benchmarks (finance, legal, medical, etc.).
 
 **Frameworks for building custom benchmarks**: Use **lm-evaluation-harness** + **LightEval** + **DeepEval** combined with **LangGraph** for comprehensive, reproducible evaluation pipelines that can run locally or at scale.
