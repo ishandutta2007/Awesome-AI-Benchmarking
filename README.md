@@ -9,6 +9,9 @@
   [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Benchmarking?style=for-the-badge&color=blue)](https://github.com/ishandutta2007/Awesome-AI-Benchmarking/network/members)
   [![Last Updated](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-AI-Benchmarking?style=for-the-badge&color=green)](https://github.com/ishandutta2007/Awesome-AI-Benchmarking/commits/main)
   [![License](https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Benchmarking?style=for-the-badge&color=orange)](LICENSE)
+<a href="https://github.com/ishandutta2007?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ishandutta2007?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
   
   **Curated List of SaaS Products & Open-Source GitHub Projects**  
   *Focused on LLM Evaluation, Benchmarking & Leaderboards*  
