@@ -1,11 +1,35 @@
-# Awesome-AI-Benchmarking
-## Top AI Benchmarking Tools & Leaderboards Ecosystem
+<div align="center">
+  <img src="banner.svg" alt="Awesome AI Benchmarking Banner" width="800">
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on LLM Evaluation, Benchmarking & Leaderboards*  
-**Last updated: May 2026**
+  # 🚀 Awesome AI Benchmarking
+  ## 📊 Top AI Benchmarking Tools & Leaderboards Ecosystem
+
+  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+  [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Benchmarking?style=for-the-badge&color=ffd700)](https://github.com/ishandutta2007/Awesome-AI-Benchmarking/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Benchmarking?style=for-the-badge&color=blue)](https://github.com/ishandutta2007/Awesome-AI-Benchmarking/network/members)
+  [![Last Updated](https://img.shields.io/github/last-commit/ishandutta2007/Awesome-AI-Benchmarking?style=for-the-badge&color=green)](https://github.com/ishandutta2007/Awesome-AI-Benchmarking/commits/main)
+  [![License](https://img.shields.io/github/license/ishandutta2007/Awesome-AI-Benchmarking?style=for-the-badge&color=orange)](LICENSE)
+  
+  **Curated List of SaaS Products & Open-Source GitHub Projects**  
+  *Focused on LLM Evaluation, Benchmarking & Leaderboards*  
+  **Last updated: May 2026**
+
+  ---
+  
+  <p align="center">
+    <b>Discover, compare, and deploy the world's best AI evaluation frameworks.</b>
+    <br />
+    <i>Essential for AI Researchers, LLM Engineers, and Data Scientists.</i>
+  </p>
+</div>
+
+## 🌟 Introduction
 
 This repository tracks notable **platforms** and **open-source projects** for **AI benchmarking and LLM evaluation**. These tools and leaderboards provide standardized, reproducible ways to measure model performance across reasoning, coding, knowledge, safety, instruction following, and real-world capabilities.
+
+![AI Benchmarking Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ296ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjP7X6N3ZqGgM/giphy.gif)
+
+**Keywords:** LLM Evaluation, AI Benchmarking, Model Leaderboard, GPT-4 Benchmarks, LLM Metrics, Open Source AI, Evaluation Frameworks, RAG Evaluation, Code Generation Benchmarks.
 
 **Examples** include LMSYS Chatbot Arena, Artificial Analysis, Open LLM Leaderboard (Hugging Face), Vellum LLM Leaderboard, and LiveBench (the category leaders). Tools listed here emphasize **rigorous evaluation**, human voting, automated metrics, contamination-free testing, and multi-dimensional scoring.
 
@@ -13,15 +37,15 @@ This repository tracks notable **platforms** and **open-source projects** for **
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
-- [SaaS / Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+## 📚 Table of Contents
+- [☁️ SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [🛠️ Open-Source GitHub Projects](#️-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚠️ Disclaimer](#-disclaimer)
 
-## SaaS / Hosted Platforms
+## ☁️ SaaS / Hosted Platforms
 
-### Core Benchmarking Platforms & Leaderboards
+### 🏗️ Core Benchmarking Platforms & Leaderboards
 
 - **[LMSYS Chatbot Arena](https://lmarena.ai/)** (formerly Chatbot Arena)  
   The most popular human-voted blind arena for comparing LLMs through crowdsourced Elo ratings. Highly trusted for real-world conversational ability.
@@ -38,13 +62,15 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard)**  
   Enterprise-focused leaderboard with practical business use case evaluations.
 
-### Advanced & Specialized Platforms
+### 🧪 Advanced & Specialized Platforms
 
 **Other notable mentions**: Arena (various forks), HELM, BigBench, and industry-specific benchmarks (e.g., Legal, Medical, Finance).
 
-## Open-Source GitHub Projects
+## 🛠️ Open-Source GitHub Projects
 
-### Dedicated Benchmarking & Evaluation Frameworks
+![Code Analysis GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmY4NHRyeXoxY2p6Y2p6Y2p6Y2p6Y2p6Y2p6Y2p6Y2p6Y2p6Y2p6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjP7X6N3ZqGgM/giphy.gif)
+
+### 📐 Dedicated Benchmarking & Evaluation Frameworks
 
 - **[lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)**  
   The most widely used open-source framework for evaluating LLMs. Supports dozens of benchmarks with standardized, reproducible evaluation.
@@ -90,16 +116,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Frameworks for building custom benchmarks**: Use **lm-evaluation-harness** + **LightEval** + **DeepEval** combined with **LangGraph** for comprehensive, reproducible evaluation pipelines that can run locally or at scale.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
 4. Submit PR with a short explanation.
 
-Star the repo if you find it useful!
+**Star the repo if you find it useful!** ⭐
 
-## Disclaimer
+[⬆️ Back to Top](#-awesome-ai-benchmarking)
+
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Benchmark scores can be misleading without understanding the methodology, contamination risks, and specific use cases. Always interpret results in context.
@@ -107,10 +135,10 @@ Star the repo if you find it useful!
 
 ---
 
-**Made for AI researchers, LLM engineers, product teams, and open-source enthusiasts.**  
-Let's make AI evaluation more transparent, rigorous, and reproducible.
+**Made with ❤️ for AI researchers, LLM engineers, product teams, and open-source enthusiasts.**  
+*Let's make AI evaluation more transparent, rigorous, and reproducible.*
 
-
+[⬆️ Back to Top](#-awesome-ai-benchmarking)
 
 ## 📈 Star History
 
@@ -119,7 +147,7 @@ Let's make AI evaluation more transparent, rigorous, and reproducible.
    <picture>
      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Benchmarking&type=date&theme=dark&legend=bottom-right" />
      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Benchmarking&type=date&legend=bottom-right" />
-     <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Benchmarking&type=date&legend=bottom-right" />
+     <img alt="Awesome AI Benchmarking Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Benchmarking&type=date&legend=bottom-right" />
    </picture>
   </a>
 </div>
