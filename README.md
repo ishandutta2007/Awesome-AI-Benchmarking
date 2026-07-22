@@ -56,6 +56,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Artificial Analysis](https://artificialanalysis.ai/)**  
   Independent, high-quality benchmarking platform with detailed metrics on quality, speed, price, latency, and context window.
 
+- **[AI Model Index](https://aimodelsindex.com/)**  
+  Reconciles source-level evidence from major AI model leaderboards into transparent, auditable indexes with coverage, confidence, benchmark-version, and source-policy context.
+
 - **[Open LLM Leaderboard (Hugging Face)](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)**  
   The gold standard automated leaderboard for open models across multiple academic and reasoning benchmarks.
 
