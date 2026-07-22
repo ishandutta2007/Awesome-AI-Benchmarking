@@ -78,47 +78,47 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### 📐 Dedicated Benchmarking & Evaluation Frameworks
 
-- **[lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)**  
+- **[DeepEval](https://github.com/confident-ai/deepeval)** [![GitHub stars](https://img.shields.io/github/stars/confident-ai/deepeval?style=social&color=white)](https://github.com/confident-ai/deepeval/stargazers)  
+  Popular open-source framework for LLM evaluation with RAGAs, G-Eval, and custom metrics.
+- **[lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness)** [![GitHub stars](https://img.shields.io/github/stars/EleutherAI/lm-evaluation-harness?style=social&color=white)](https://github.com/EleutherAI/lm-evaluation-harness/stargazers)  
   The most widely used open-source framework for evaluating LLMs. Supports dozens of benchmarks with standardized, reproducible evaluation.
-
-- **[Open LLM Leaderboard](https://github.com/huggingface/open-llm-leaderboard)**  
+- **[Big-Bench](https://github.com/google/BIG-bench)** [![GitHub stars](https://img.shields.io/github/stars/google/BIG-bench?style=social&color=white)](https://github.com/google/BIG-bench/stargazers)  
+  Google’s massive collaborative benchmark with over 200+ diverse tasks.
+- **[HELM (Holistic Evaluation of Language Models)](https://github.com/stanford-crfm/helm)** [![GitHub stars](https://img.shields.io/github/stars/stanford-crfm/helm?style=social&color=white)](https://github.com/stanford-crfm/helm/stargazers)  
+  Stanford’s comprehensive benchmarking suite covering accuracy, calibration, robustness, fairness, bias, and toxicity.
+- **[LightEval](https://github.com/huggingface/lighteval)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/lighteval?style=social&color=white)](https://github.com/huggingface/lighteval/stargazers)  
+  Hugging Face’s lightweight and fast evaluation library optimized for large-scale benchmarking.
+- **[EvalPlus](https://github.com/evalplus/evalplus)** [![GitHub stars](https://img.shields.io/github/stars/evalplus/evalplus?style=social&color=white)](https://github.com/evalplus/evalplus/stargazers)  
+  Rigorous evaluation framework focused on code generation with extended test cases (HumanEval+, MBPP+).
+- **[LiveBench](https://github.com/livebench/livebench)** [![GitHub stars](https://img.shields.io/github/stars/livebench/livebench?style=social&color=white)](https://github.com/livebench/livebench/stargazers)  
+  Open-source contamination-free benchmark with regularly refreshed questions across multiple categories.
+- **[DeepSWE](https://github.com/datacurve-ai/deep-swe)** [![GitHub stars](https://img.shields.io/github/stars/datacurve-ai/deep-swe?style=social&color=white)](https://github.com/datacurve-ai/deep-swe/stargazers)  
+  High-resolution benchmark from Datacurve for coding agents, featuring zero-pollution, long-horizon tasks across 100+ languages with behavioral verifiers.
+- **[LangChain / LangSmith Evaluators](https://github.com/langchain-ai/langsmith-sdk)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langsmith-sdk?style=social&color=white)](https://github.com/langchain-ai/langsmith-sdk/stargazers)  
+  Production-grade evaluation tools with tracing and custom metric support.
+- **[Open LLM Leaderboard](https://github.com/huggingface/open-llm-leaderboard)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/open-llm-leaderboard?style=social&color=white)](https://github.com/huggingface/open-llm-leaderboard/stargazers)  
   Official open-source codebase behind Hugging Face’s popular leaderboard. Fully customizable for running your own evaluations.
 
-- **[HELM (Holistic Evaluation of Language Models)](https://github.com/stanford-crfm/helm)**  
-  Stanford’s comprehensive benchmarking suite covering accuracy, calibration, robustness, fairness, bias, and toxicity.
 
-- **[LiveBench](https://github.com/livebench/livebench)**  
-  Open-source contamination-free benchmark with regularly refreshed questions across multiple categories.
 
-- **[EvalPlus](https://github.com/evalplus/evalplus)**  
-  Rigorous evaluation framework focused on code generation with extended test cases (HumanEval+, MBPP+).
 
-- **[DeepSWE](https://github.com/datacurve-ai/deep-swe)**  
-  High-resolution benchmark from Datacurve for coding agents, featuring zero-pollution, long-horizon tasks across 100+ languages with behavioral verifiers.
 
-- **[DeepEval](https://github.com/confident-ai/deepeval)**  
-  Popular open-source framework for LLM evaluation with RAGAs, G-Eval, and custom metrics.
 
-- **[LangChain / LangSmith Evaluators](https://github.com/langchain-ai/langsmith-sdk)**  
-  Production-grade evaluation tools with tracing and custom metric support.
 
-- **[LightEval](https://github.com/huggingface/lighteval)**  
-  Hugging Face’s lightweight and fast evaluation library optimized for large-scale benchmarking.
 
-- **[Big-Bench](https://github.com/google/BIG-bench)**  
-  Google’s massive collaborative benchmark with over 200+ diverse tasks.
+
 
 ### Additional Strong Open-Source Options
 
-- **[LLM-KG-Bench](https://github.com/AKSW/LLM-KG-Bench)** — Knowledge graph and structured reasoning evaluation.
-- **[RAGAS](https://github.com/explodinggradients/ragas)** — Specialized framework for evaluating Retrieval-Augmented Generation systems.
-- **[PromptBench](https://github.com/microsoft/promptbench)** — Robustness and adversarial testing for prompts.
-- **[SafetyBench](https://github.com/thu-coai/SafetyBench)** — Safety and alignment evaluation suites.
-- **[VIrAL (Viral Intelligence and Risk Assessment Link)](https://github.com/QIANJINYDX/ViroBench)** — Comprehensive benchmark for Nucleotide Foundation Models (NFMs) evaluating viral genomics understanding and latent biosecurity risks.
-- **[MT-Bench](https://github.com/lm-sys/FastChat)** — Multi-turn conversation benchmarking (from LMSYS).
-- **AgentBench** — For evaluating autonomous AI agents.
-- **[ClawBench](https://github.com/reacher-z/ClawBench)** — Live-website browser-agent benchmark; 283 everyday tasks (V1 153 + V2 130) across 163 live platforms. Two-stage scoring: HTTP-request interception at per-task URL/method schema + LLM judge on intercepted payload. [Paper](https://arxiv.org/abs/2604.08523) · [Live leaderboard](https://claw-bench.com).
+- **[MT-Bench](https://github.com/lm-sys/FastChat)** [![GitHub stars](https://img.shields.io/github/stars/lm-sys/FastChat?style=social&color=white)](https://github.com/lm-sys/FastChat/stargazers) — Multi-turn conversation benchmarking (from LMSYS).
+- **[RAGAS](https://github.com/explodinggradients/ragas)** [![GitHub stars](https://img.shields.io/github/stars/explodinggradients/ragas?style=social&color=white)](https://github.com/explodinggradients/ragas/stargazers) — Specialized framework for evaluating Retrieval-Augmented Generation systems.
+- **[PromptBench](https://github.com/microsoft/promptbench)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/promptbench?style=social&color=white)](https://github.com/microsoft/promptbench/stargazers) — Robustness and adversarial testing for prompts.
+- **[ClawBench](https://github.com/reacher-z/ClawBench)** [![GitHub stars](https://img.shields.io/github/stars/reacher-z/ClawBench?style=social&color=white)](https://github.com/reacher-z/ClawBench/stargazers) — Live-website browser-agent benchmark; 283 everyday tasks (V1 153 + V2 130) across 163 live platforms. Two-stage scoring: HTTP-request interception at per-task URL/method schema + LLM judge on intercepted payload. [Paper](https://arxiv.org/abs/2604.08523) · [Live leaderboard](https://claw-bench.com).
 - Many community forks and extensions of `lm-evaluation-harness` for domain-specific benchmarks (finance, legal, medical, etc.).
+- **[SafetyBench](https://github.com/thu-coai/SafetyBench)** [![GitHub stars](https://img.shields.io/github/stars/thu-coai/SafetyBench?style=social&color=white)](https://github.com/thu-coai/SafetyBench/stargazers) — Safety and alignment evaluation suites.
+- **[LLM-KG-Bench](https://github.com/AKSW/LLM-KG-Bench)** [![GitHub stars](https://img.shields.io/github/stars/AKSW/LLM-KG-Bench?style=social&color=white)](https://github.com/AKSW/LLM-KG-Bench/stargazers) — Knowledge graph and structured reasoning evaluation.
+- **[VIrAL (Viral Intelligence and Risk Assessment Link)](https://github.com/QIANJINYDX/ViroBench)** [![GitHub stars](https://img.shields.io/github/stars/QIANJINYDX/ViroBench?style=social&color=white)](https://github.com/QIANJINYDX/ViroBench/stargazers) — Comprehensive benchmark for Nucleotide Foundation Models (NFMs) evaluating viral genomics understanding and latent biosecurity risks.
+- **AgentBench** — For evaluating autonomous AI agents.
 
 **Frameworks for building custom benchmarks**: Use **lm-evaluation-harness** + **LightEval** + **DeepEval** combined with **LangGraph** for comprehensive, reproducible evaluation pipelines that can run locally or at scale.
 
