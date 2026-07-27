@@ -92,12 +92,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
   Rigorous evaluation framework focused on code generation with extended test cases (HumanEval+, MBPP+).
 - **[LiveBench](https://github.com/livebench/livebench)** [![GitHub stars](https://img.shields.io/github/stars/livebench/livebench?style=social&color=white)](https://github.com/livebench/livebench/stargazers)  
   Open-source contamination-free benchmark with regularly refreshed questions across multiple categories.
-- **[StructEval](https://github.com/TIGER-AI-Lab/StructEval)** [![GitHub stars](https://img.shields.io/github/stars/TIGER-AI-Lab/StructEval?style=social&color=white)](https://github.com/TIGER-AI-Lab/StructEval/stargazers)<br>
-  TMLR benchmark for structured-output generation and conversion across 2,035 examples, 18 text and renderable visual formats, and 44 task types. [Paper](https://arxiv.org/abs/2505.20139) · [Leaderboard](https://tiger-ai-lab.github.io/StructEval/)
 - **[DeepSWE](https://github.com/datacurve-ai/deep-swe)** [![GitHub stars](https://img.shields.io/github/stars/datacurve-ai/deep-swe?style=social&color=white)](https://github.com/datacurve-ai/deep-swe/stargazers)  
   High-resolution benchmark from Datacurve for coding agents, featuring zero-pollution, long-horizon tasks across 100+ languages with behavioral verifiers.
 - **[LangChain / LangSmith Evaluators](https://github.com/langchain-ai/langsmith-sdk)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langsmith-sdk?style=social&color=white)](https://github.com/langchain-ai/langsmith-sdk/stargazers)  
   Production-grade evaluation tools with tracing and custom metric support.
+- **[StructEval](https://github.com/TIGER-AI-Lab/StructEval)** [![GitHub stars](https://img.shields.io/github/stars/TIGER-AI-Lab/StructEval?style=social&color=white)](https://github.com/TIGER-AI-Lab/StructEval/stargazers)<br>
+  TMLR benchmark for structured-output generation and conversion across 2,035 examples, 18 text and renderable visual formats, and 44 task types. [Paper](https://arxiv.org/abs/2505.20139) · [Leaderboard](https://tiger-ai-lab.github.io/StructEval/)
 - **[Open LLM Leaderboard](https://github.com/huggingface/open-llm-leaderboard)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/open-llm-leaderboard?style=social&color=white)](https://github.com/huggingface/open-llm-leaderboard/stargazers)  
   Official open-source codebase behind Hugging Face’s popular leaderboard. Fully customizable for running your own evaluations.
 
