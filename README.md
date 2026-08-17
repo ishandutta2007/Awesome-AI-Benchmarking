@@ -98,6 +98,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
   Production-grade evaluation tools with tracing and custom metric support.
 - **[StructEval](https://github.com/TIGER-AI-Lab/StructEval)** [![GitHub stars](https://img.shields.io/github/stars/TIGER-AI-Lab/StructEval?style=social&color=white)](https://github.com/TIGER-AI-Lab/StructEval/stargazers)<br>
   TMLR benchmark for structured-output generation and conversion across 2,035 examples, 18 text and renderable visual formats, and 44 task types. [Paper](https://arxiv.org/abs/2505.20139) · [Leaderboard](https://tiger-ai-lab.github.io/StructEval/)
+- **[Dr. Bench](https://github.com/EVIGBYEN/DrBench)** [![GitHub stars](https://img.shields.io/github/stars/EVIGBYEN/DrBench?style=social&color=white)](https://github.com/EVIGBYEN/DrBench/stargazers)<br>
+  Open-source benchmark for deep-research agents, evaluating long-form reports on 214 expert-curated tasks with semantic quality, topical focus, and retrieval-trustworthiness metrics. [Paper](https://arxiv.org/abs/2510.02190)
 - **[Open LLM Leaderboard](https://github.com/huggingface/open-llm-leaderboard)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/open-llm-leaderboard?style=social&color=white)](https://github.com/huggingface/open-llm-leaderboard/stargazers)  
   Official open-source codebase behind Hugging Face’s popular leaderboard. Fully customizable for running your own evaluations.
 
@@ -159,4 +161,3 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
    </picture>
   </a>
 </div>
-
