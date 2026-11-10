@@ -104,6 +104,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
   Open-source evaluation layer for agent runs: normalizes every case into one v2 attempt contract, runs each candidate in a private fresh-repository workspace, and evaluates retained evidence with ordered deterministic and/or LLM profiles. Workspace receipts, post-execution repository manifests, and evaluator provenance hashes form one immutable, hash-linked evidence chain. [npm](https://www.npmjs.com/package/@yylo/benchmark)
 - **[Open LLM Leaderboard](https://github.com/huggingface/open-llm-leaderboard)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/open-llm-leaderboard?style=social&color=white)](https://github.com/huggingface/open-llm-leaderboard/stargazers)  
   Official open-source codebase behind Hugging Face’s popular leaderboard. Fully customizable for running your own evaluations.
+- **[agentstats](https://github.com/RishabhPande/agentstats)** - Open-source Python/MIT statistical toolkit for repeated AI-agent benchmark runs, with significance tests, run-count planning and leaderboard uncertainty audits. It analyzes run tables rather than executing agents.
 
 
 
