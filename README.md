@@ -68,6 +68,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Vellum LLM Leaderboard](https://www.vellum.ai/llm-leaderboard)**  
   Enterprise-focused leaderboard with practical business use case evaluations.
 
+- **[Models Rank](https://modelsrank.org/en/)**  
+  Weekly table of public third-party evaluations showing which models are smartest, fastest and cheapest. Default ranking uses Artificial Analysis; Arena scores are listed separately.
+
 ### 🧪 Advanced & Specialized Platforms
 
 **Other notable mentions**: Arena (various forks), HELM, BigBench, and industry-specific benchmarks (e.g., Legal, Medical, Finance).
