@@ -102,6 +102,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
   Open-source benchmark for deep-research agents, evaluating long-form reports on 214 expert-curated tasks with semantic quality, topical focus, and retrieval-trustworthiness metrics. [Paper](https://arxiv.org/abs/2510.02190)
 - **[YYLO Benchmark](https://github.com/yylo-dev/yylo-benchmark)** [![GitHub stars](https://img.shields.io/github/stars/yylo-dev/yylo-benchmark?style=social&color=white)](https://github.com/yylo-dev/yylo-benchmark/stargazers)<br>
   Open-source evaluation layer for agent runs: normalizes every case into one v2 attempt contract, runs each candidate in a private fresh-repository workspace, and evaluates retained evidence with ordered deterministic and/or LLM profiles. Workspace receipts, post-execution repository manifests, and evaluator provenance hashes form one immutable, hash-linked evidence chain. [npm](https://www.npmjs.com/package/@yylo/benchmark)
+- **[EvalShift](https://github.com/evalshift/evalshift-cli)** [![GitHub stars](https://img.shields.io/github/stars/evalshift/evalshift-cli?style=social&color=white)](https://github.com/evalshift/evalshift-cli/stargazers)<br>
+  Open-source CLI for benchmarking a candidate model against the current one on your own test cases or recorded agent runs, with per-case output and tool-call diffs and paired statistics.
 - **[Open LLM Leaderboard](https://github.com/huggingface/open-llm-leaderboard)** [![GitHub stars](https://img.shields.io/github/stars/huggingface/open-llm-leaderboard?style=social&color=white)](https://github.com/huggingface/open-llm-leaderboard/stargazers)  
   Official open-source codebase behind Hugging Face’s popular leaderboard. Fully customizable for running your own evaluations.
 
